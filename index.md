@@ -116,8 +116,8 @@ Der lokal auf dem Gerät gespeicherte Zugangsschlüssel wird gelöscht, sobald e
 
 Wir setzen für den Betrieb der Plattform folgende Dienstleister ein, jeweils auf Grundlage eines Auftragsverarbeitungsvertrags:
 
-- **Microsoft Azure** — Hosting und Speicherung, Region Schweiz
-- **Auth0 (Okta)** — Authentifizierung der Nutzerkonten am Medihub-Arbeitsplatz
+- **Microsoft Azure**: Hosting und Speicherung, Region Schweiz
+- **Auth0 (Okta)**: Authentifizierung der Nutzerkonten am Medihub-Arbeitsplatz
 
 Eine Weitergabe an weitere Dritte erfolgt nur, wenn dies gesetzlich vorgeschrieben ist oder zum Schutz von Rechten und Sicherheit erforderlich ist.
 
@@ -127,7 +127,7 @@ Eine Weitergabe an weitere Dritte erfolgt nur, wenn dies gesetzlich vorgeschrieb
 
 Sie haben das Recht, Auskunft über die zu Ihrer Person gespeicherten Daten zu verlangen, deren Berichtigung oder Löschung zu fordern, die Verarbeitung einschränken zu lassen, Ihre Daten in einem gängigen Format zu erhalten und eine erteilte Einwilligung jederzeit zu widerrufen.
 
-Betrifft Ihr Anliegen Aufnahmen aus einer Behandlung, wenden Sie sich bitte an die behandelnde Organisation — diese entscheidet über die Daten ihrer Patientinnen und Patienten. Für alle übrigen Anliegen erreichen Sie uns unter der untenstehenden Adresse.
+Betrifft Ihr Anliegen Aufnahmen aus einer Behandlung, wenden Sie sich bitte an die behandelnde Organisation. Diese entscheidet über die Daten ihrer Patientinnen und Patienten. Für alle übrigen Anliegen erreichen Sie uns unter der untenstehenden Adresse.
 
 ---
 
